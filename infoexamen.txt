@@ -1,0 +1,60 @@
+* commit 3fd0a8df677b86c0222af6b92c0ac7ec4dca5be1 (HEAD -> master, maseri420/master)
+| Author: maseri420 <alvaromaseriapraiz@gmai.com>
+| Date:   Fri May 7 09:25:22 2021 +0200
+| 
+|     w
+| 
+* commit d128c63d2960349274c2121e2c4e83219cee15cf
+| Author: maseri420 <alvaromaseriapraiz@gmai.com>
+| Date:   Fri May 7 09:24:30 2021 +0200
+| 
+|     paso3
+| 
+* commit dc954f79232a2389eb87de940028fd7bad45da80
+| Author: maseri420 <alvaromaseriapraiz@gmai.com>
+| Date:   Fri May 7 09:21:31 2021 +0200
+| 
+|     paso2
+| 
+* commit fcc57fbaf582c677b4fa80a64f60ad4546ddd85d
+| Author: maseri420 <alvaromaseriapraiz@gmai.com>
+| Date:   Fri May 7 09:18:00 2021 +0200
+| 
+|     paso1
+| 
+* commit 8c38fdbd010d7f190eae5064bc8c206171e9efd4
+  Author: maseri420 <82999378+maseri420@users.noreply.github.com>
+  Date:   Fri May 7 09:26:38 2021 +0200
+  
+      Initial commit
+  
+* commit 977126b7ae953ffffb67144bbbdac79c85617ceb (Rama_ejercicio2)
+| Author: maseri420 <alvaromaseriapraiz@gmai.com>
+| Date:   Fri May 7 09:24:30 2021 +0200
+| 
+|     paso3
+| 
+* commit 3cba3ae2694ffbb0780a0f30f17a45e00da79112
+| Author: maseri420 <alvaromaseriapraiz@gmai.com>
+| Date:   Fri May 7 09:21:31 2021 +0200
+| 
+|     paso2
+| 
+* commit 9f3b763259744b7b75e16f7ed14ec869401d92a7
+  Author: maseri420 <alvaromaseriapraiz@gmai.com>
+  Date:   Fri May 7 09:18:00 2021 +0200
+  
+      paso1
+3fd0a8d HEAD@{0}: pull --rebase maseri420 master (finish): returning to refs/heads/master
+3fd0a8d HEAD@{1}: pull --rebase maseri420 master (pick): w
+d128c63 HEAD@{2}: pull --rebase maseri420 master (pick): paso3
+dc954f7 HEAD@{3}: pull --rebase maseri420 master (pick): paso2
+fcc57fb HEAD@{4}: pull --rebase maseri420 master (pick): paso1
+8c38fdb HEAD@{5}: pull --rebase maseri420 master (start): checkout 8c38fdbd010d7f190eae5064bc8c206171e9efd4
+ec23c20 HEAD@{6}: commit: w
+977126b HEAD@{7}: merge Rama_ejercicio2: Fast-forward
+3cba3ae HEAD@{8}: checkout: moving from Rama_ejercicio2 to master
+977126b HEAD@{9}: commit: paso3
+3cba3ae HEAD@{10}: checkout: moving from master to Rama_ejercicio2
+3cba3ae HEAD@{11}: commit: paso2
+9f3b763 HEAD@{12}: commit (initial): paso1
